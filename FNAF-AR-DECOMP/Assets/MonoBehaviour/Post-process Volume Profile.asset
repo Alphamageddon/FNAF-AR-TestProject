@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: 88d4e71cd9ec6608724e100fbca9ea92, type: 3}
+  m_Name: "Post-process Volume Profile"
+  m_EditorClassIdentifier: 
+  settings:
+  - {fileID: 11400000, guid: 103108cfa36048dba8aa93f9fcbe7e2a, type: 2}
+  - {fileID: 11400000, guid: ea01a7ab046747c7a3deb4ca7c37bdfe, type: 2}
+  - {fileID: 11400000, guid: e93288a8f9824bff8d623e4a2bdd0282, type: 2}

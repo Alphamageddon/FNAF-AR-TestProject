@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "background_ui_atlas"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 2457ff95a2a64a93a00a57b5b6096a7b, type: 3}
+    - {fileID: 21300000, guid: f652505127b547489a428bdd4b0b2b08, type: 3}
+    - {fileID: 21300000, guid: 3bb05036ecd3488eb36e7449b6c3c5df, type: 3}
+    - {fileID: 21300000, guid: fd1479a785c146129b97c7b98583051d, type: 3}
+    - {fileID: 21300000, guid: 877fdeb63b0d4459a135bfc6745836cd, type: 3}
+    - {fileID: 21300000, guid: 7af38f3210d047ecba733327cad95851, type: 3}
+    - {fileID: 21300000, guid: 479579eacc88435787470a8dc4532f7c, type: 3}
+    - {fileID: 21300000, guid: 733c596df7194ba0b280c63ec09ce613, type: 3}
+    - {fileID: 21300000, guid: 87e450ba05f64140bf1c61386d9c2bd5, type: 3}
+    - {fileID: 21300000, guid: be884ef809454a7b971cab5337de9ac3, type: 3}
+    - {fileID: 21300000, guid: 7a03a8d75d5b41f4baf36f4b7dcd4d18, type: 3}
+    - {fileID: 21300000, guid: a508d79d95a74f8ca2dd8458414d222a, type: 3}
+    - {fileID: 21300000, guid: 891f9ffa9aff4ae3b8c65bfdb5e8e58e, type: 3}
+    - {fileID: 21300000, guid: f34090caae1d4f4380af0e8d1ca2d6b1, type: 3}
+    - {fileID: 21300000, guid: f010850d902448218625927f6e20c5fb, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "background_ui_atlas"
+  m_IsVariant: 0

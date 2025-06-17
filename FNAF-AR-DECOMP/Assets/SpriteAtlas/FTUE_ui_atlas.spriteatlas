@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "FTUE_ui_atlas"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 507a747e9f7e4613a762ea8b52fb5945, type: 3}
+    - {fileID: 21300000, guid: 7c181b2240a34787b01f871191a5eace, type: 3}
+    - {fileID: 21300000, guid: bd7e6fc08b7b461dbb883c36da2bda48, type: 3}
+    - {fileID: 21300000, guid: 01b16238bbb148ddab2c8eedd5cf4387, type: 3}
+    - {fileID: 21300000, guid: 4ab88f0b4d994725b1771b3cea741e3e, type: 3}
+    - {fileID: 21300000, guid: b15cdea8df884067993483279c097982, type: 3}
+    - {fileID: 21300000, guid: f8291f05773d48e49508a8f23121b5b0, type: 3}
+    - {fileID: 21300000, guid: 109a46f5462242c2b68f28afe2784667, type: 3}
+    - {fileID: 21300000, guid: 209cf49851044a9cbc92fcd5fb4cc781, type: 3}
+    - {fileID: 21300000, guid: f1b2233e9cb648e689b8f6547b7f17df, type: 3}
+    - {fileID: 21300000, guid: 21b3e37c976d4516b00677701cf6467a, type: 3}
+    - {fileID: 21300000, guid: a002791e74e9432e91b07194d317f4a6, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "FTUE_ui_atlas"
+  m_IsVariant: 0

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_Map"
+  m_EditorClassIdentifier: 
+  identifier: "d5c5fb6d-42b7-4139-989e-9e50b2ceab22"
+  graph: {fileID: 11400000, guid: 243bfb4e42be4aa19f48dac52559da83, type: 2}
+  edges: []
+  hooks:
+  - identifier: "30373bd9-0d4c-4947-878a-dee746f4ec3a"
+    name: "SharedDialog_devicesInfo"
+    rect01:
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+  - identifier: "af7cb62e-2427-498e-bcd3-922848646f62"
+    name: "DevicesCell"
+    rect01:
+      x: 0.07333333
+      y: 0.436057
+      width: 0.8533334
+      height: 0.1424288
+  - identifier: "2b05280a-11ae-4766-8c60-cf431cca75a6"
+    name: "CTA"
+    rect01:
+      x: 0.6859131
+      y: 0.5349038
+      width: 0.2255072
+      height: 0.0278399
+  - identifier: "5e703ac0-7a10-47db-8bbb-c6d9892e5f13"
+    name: "CTA3"
+    rect01:
+      x: 0.1066667
+      y: 0.5333058
+      width: 0.3866667
+      height: 0.05622189
+  - identifier: "b1497c55-4a58-4350-b2a1-7178dd5c4c10"
+    name: "CTA2"
+    rect01:
+      x: 0.1066667
+      y: 0.6063943
+      width: 0
+      height: 0
+  - identifier: "03ad182a-a87c-46a1-a63e-b26a265732df"
+    name: "CTA1"
+    rect01:
+      x: 0.3468
+      y: 0.7508808
+      width: 0.3064
+      height: 0.05997001
+  - identifier: "25f7ed02-0be2-4457-8f97-46ad80ed99eb"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4533333
+      y: 0.8688156
+      width: 0.09333333
+      height: 0.05247376
+  - identifier: "b934b2c7-5efe-416e-a668-f9b912fbd856"
+    name: "UpArrow"
+    rect01:
+      x: 0.03773332
+      y: 0.05247376
+      width: 0.1333333
+      height: 0.07496252
+  - identifier: "e0635861-e398-43b0-a1cd-0430967d5c93"
+    name: "DownArrow"
+    rect01:
+      x: 0.03773332
+      y: 0.6851574
+      width: 0.1333333
+      height: 0.07496252
+  sceneName: "GameProject_Alpine_CanvasController_Map"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

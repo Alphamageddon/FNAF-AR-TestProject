@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e956280e9bb2dc6b3ef75080c7c7c9, type: 3}
+  m_Name: "GetSocialSettings"
+  m_EditorClassIdentifier: 
+  _appId: "Za80c0XC7Pv"
+  _isAutoRegisrationForPushesEnabled: 0
+  _isForegroundNotificationsEnabled: 0
+  _autoInitEnabled: 0
+  _disableFacebookReferralCheck: 0
+  _useGetSocialUi: 1
+  _getSocialCustomConfigurationFilePath: 
+  _getSocialDefaultConfigurationFilePath: 
+  _iosPushEnvironment: 
+  _deeplinkingDomains:
+  - "fnafar.gsc.im"
+  - "fnafar-gsalt.gsc.im"
+  _isAndroidEnabled: 1
+  _isIosEnabled: 1
+  _isIosPushEnabled: 0
+  _isAndroidPushEnabled: 0
+  _isAppIdValid: 1
+  _isRichNotificationsEnabled: 1
+  _extensionBundleId: 
+  _extensionProvisioningProfile: 

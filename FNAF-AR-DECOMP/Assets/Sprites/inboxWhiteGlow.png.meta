@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: c1673f85d912438bbd4335ee2bd0d0b4
+timeCreated: 1750163329
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300042: inboxWhiteGlow
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -78.48339, y: -58.51992}
+      - {x: -78.48339, y: 56.48008}
+      - {x: -75.48339, y: -60.51992}
+    - - {x: -77.48339, y: 60.48008}
+      - {x: -75.48339, y: -60.51992}
+      - {x: -78.48339, y: 56.48008}
+    - - {x: 71.51661, y: 60.48008}
+      - {x: -75.48339, y: -60.51992}
+      - {x: -77.48339, y: 60.48008}
+    - - {x: 66.51661, y: -60.51992}
+      - {x: -75.48339, y: -60.51992}
+      - {x: 71.51661, y: 60.48008}
+    - - {x: 77.51661, y: -53.51992}
+      - {x: 66.51661, y: -60.51992}
+      - {x: 71.51661, y: 60.48008}
+    - - {x: 78.51661, y: 46.48008}
+      - {x: 77.51661, y: -53.51992}
+      - {x: 71.51661, y: 60.48008}
+    - - {x: 78.51661, y: -34.51992}
+      - {x: 77.51661, y: -53.51992}
+      - {x: 78.51661, y: 46.48008}
+    physicsShape:    
+    - - {x: 72.51661, y: -18.51992}
+      - {x: 72.51661, y: -3.519917}
+      - {x: 69.51661, y: 16.48008}
+      - {x: 67.5166, y: 20.48008}
+      - {x: 64.51661, y: 20.48008}
+      - {x: 57.51661, y: 18.48008}
+      - {x: 11.51661, y: -23.51991}
+      - {x: 4.516609, y: -30.51991}
+      - {x: -5.483391, y: -30.51991}
+      - {x: -37.48339, y: -4.519917}
+      - {x: -47.48339, y: 4.480083}
+      - {x: -65.48339, y: 20.48008}
+      - {x: -68.48339, y: 20.48008}
+      - {x: -71.48339, y: 19.48008}
+      - {x: -71.48339, y: 12.48008}
+      - {x: -70.48339, y: -12.51992}
+      - {x: -72.48338, y: -12.51992}
+      - {x: -72.48338, y: -38.51992}
+      - {x: -71.48339, y: -46.51991}
+      - {x: -62.48339, y: -53.51992}
+      - {x: -49.48339, y: -54.51992}
+      - {x: -43.48339, y: -54.51992}
+      - {x: 9.516609, y: -53.51992}
+      - {x: 14.51661, y: -54.51992}
+      - {x: 33.51661, y: -54.51992}
+      - {x: 52.51661, y: -52.51991}
+      - {x: 63.51661, y: -51.51992}
+      - {x: 70.51661, y: -42.51992}
+      - {x: 69.51661, y: -19.51992}
+      - {x: -24.48339, y: -33.51991}
+      - {x: -11.48339, y: -40.51992}
+      - {x: -9.48339, y: -39.51992}
+      - {x: -6.483391, y: -42.51992}
+      - {x: -0.4833908, y: -42.51992}
+      - {x: -6.483391, y: -41.51992}
+      - {x: -7.483391, y: -42.51992}
+      - {x: -14.48339, y: -39.51992}
+      - {x: -23.48339, y: -39.51992}
+      - {x: 8.516609, y: -40.51992}
+      - {x: 6.516609, y: -40.51992}
+      - {x: 4.516609, y: -42.51992}
+      - {x: 7.516609, y: -40.51992}
+      - {x: 10.51661, y: -40.51992}
+      - {x: 14.51661, y: -38.51992}
+      - {x: 50.51661, y: -3.519917}
+      - {x: 59.51661, y: 5.480083}
+      - {x: 59.51661, y: -18.51992}
+      - {x: 57.51661, y: -18.51992}
+      - {x: 56.51661, y: -33.51991}
+      - {x: 30.51661, y: -41.51992}
+      - {x: 69.51661, y: 33.48008}
+      - {x: 69.51661, y: 38.48008}
+      - {x: 68.51661, y: 40.48008}
+      - {x: 66.51661, y: 45.48008}
+      - {x: 59.51661, y: 51.48008}
+      - {x: 49.51661, y: 51.48008}
+      - {x: 34.51661, y: 53.48008}
+      - {x: 14.51661, y: 52.48008}
+      - {x: 8.516609, y: 54.48008}
+      - {x: -14.48339, y: 53.48008}
+      - {x: -30.48339, y: 52.48008}
+      - {x: -39.48339, y: 52.48008}
+      - {x: -60.48339, y: 51.48008}
+      - {x: -65.48339, y: 49.48008}
+      - {x: -71.48339, y: 43.48008}
+      - {x: -71.48339, y: 36.48008}
+      - {x: -70.48339, y: 29.48008}
+      - {x: -62.48339, y: 16.48008}
+      - {x: -45.48339, y: 5.480083}
+      - {x: -22.48339, y: -15.51992}
+      - {x: -10.48339, y: -23.51991}
+      - {x: 5.516609, y: -24.51992}
+      - {x: 7.516609, y: -24.51992}
+      - {x: 21.51661, y: -13.51992}
+      - {x: 55.51661, y: 18.48008}
+      - {x: 68.51661, y: 31.48008}
+      - {x: -11.48339, y: -10.51992}
+      - {x: -22.48339, y: 0.4800835}
+      - {x: -46.48339, y: 20.48008}
+      - {x: -61.48339, y: 34.48008}
+      - {x: -60.48339, y: 41.48008}
+      - {x: -18.48339, y: 41.48008}
+      - {x: 2.516609, y: 39.48008}
+      - {x: 23.51661, y: 40.48008}
+      - {x: 31.51661, y: 36.48008}
+      - {x: 42.51661, y: 39.48008}
+      - {x: 56.51661, y: 39.48008}
+      - {x: 57.51661, y: 34.48008}
+      - {x: 39.51661, y: 22.48008}
+      - {x: 28.51661, y: 10.48008}
+      - {x: 14.51661, y: -2.519917}
+      - {x: 3.516609, y: -11.51992}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

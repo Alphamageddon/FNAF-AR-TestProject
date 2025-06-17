@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 418513179, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardGraph"
+  m_EditorClassIdentifier: 
+  storyboard: {fileID: 11400000, guid: 14850d2be00e4c1bb6be86a17f043c2d, type: 2}
+  inEditorResponder: {fileID: 0}
+  nodes:
+  - {fileID: 11400000, guid: fbc0da9059f34974bb79c6ea4ea681d9, type: 2}
+  - {fileID: 11400000, guid: a033e0b939c646b7b9052cb123b6fedb, type: 2}
+  - {fileID: 11400000, guid: aa934a0318114d1dbb8323cef3349447, type: 2}
+  - {fileID: 11400000, guid: 07cc5824a09e4bd9864a5d4c9aab4af0, type: 2}
+  - {fileID: 11400000, guid: d95c72c093754840922fb47d8abaa43a, type: 2}
+  entryEdge: {fileID: 11400000, guid: a406984585544a698b50eea5c04c6575, type: 2}

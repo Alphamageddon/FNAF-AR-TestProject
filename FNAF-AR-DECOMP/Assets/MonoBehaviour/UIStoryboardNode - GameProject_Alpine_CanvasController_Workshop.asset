@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_Workshop"
+  m_EditorClassIdentifier: 
+  identifier: "6f3bfe46-4c02-428b-b406-54ca655fa225"
+  graph: {fileID: 11400000, guid: 243bfb4e42be4aa19f48dac52559da83, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 30827fa1c147446ebc109b0c8ab55370, type: 2}
+  hooks:
+  - identifier: "0dd20eb2-d7d4-4665-aa4e-d1f3365bc099"
+    name: "CTA_Modify"
+    rect01:
+      x: 0.5066667
+      y: 0.5843703
+      width: 0.4066667
+      height: 0.05502251
+  - identifier: "25f7ed02-0be2-4457-8f97-46ad80ed99eb"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4533333
+      y: 0.8688156
+      width: 0.09333333
+      height: 0.05247376
+  sceneName: "GameProject_Alpine_CanvasController_Workshop"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

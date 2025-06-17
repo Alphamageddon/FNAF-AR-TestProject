@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/GameProject_Alpine_Bootstrap.unity
+    guid: eb54323ca5f47294798d62f8bd65c057
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/Debug/Debug_Alpine_AnimatronicModelViewer.unity
+    guid: e624f6a11251d724688acce63159613f
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/GameScenes/GameProject_Alpine_Camera.unity
+    guid: 141e6f68eb6ff6048abfa74ba3a488e6
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/GameScenes/GameProject_Alpine_GameSystems.unity
+    guid: cfd69f217e0c55c449e20001a2a58f97
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/GameScenes/GameProject_Alpine_Map.unity
+    guid: e1f32f855a2427a4dab63729de948835
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/GameScenes/GameProject_Alpine_Splash.unity
+    guid: f5b32e7bd36bcc24881a901bbaa7f9e7
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/GameScenes/GameProject_Alpine_Workshop.unity
+    guid: 26de8e8f35d0d7a47877ce6233377489
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE1.unity
+    guid: 61eed9804d6f42e4c8dc8f1973743445
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE2.unity
+    guid: 36d53c30a505dbe40bad00b3b920d017
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE2_2.unity
+    guid: c5e25b4c2bebc724ba3d477deae07856
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE2_3.unity
+    guid: df22efd6271911f42b5e041bf7d3002d
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE3.unity
+    guid: f2dacebabd228f74e999e387773876a0
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE4.unity
+    guid: 0731a65e3d424a5468b769c7f2dc515a
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/GameProject_Alpine_CanvasController_FTUE_Video.unity
+    guid: 3596a9f4339e0b341862517801824375
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/TutorialScenes/Video/FTUEVideoScene.unity
+    guid: 93de101b77cb13e449b71d6abf3485c9
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Authentication.unity
+    guid: 6e6d61ef3288a5e49aa244e26e4538a3
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_BottomBar.unity
+    guid: cbe16c7fc55aeaf4abb263067af603f4
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Camera.unity
+    guid: fe9dd110e315f1c4793b83e39a02e3fd
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_DailyChallenges.unity
+    guid: fdb8aea987ac6a94b96f964bf06cc7df
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Devices.unity
+    guid: cb2ac327b5e177f4f98e06c3ab3245a9
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_FazPass.unity
+    guid: 126b51f68a2fd5f4c90b884ededd0fbe
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Inbox.unity
+    guid: 7ea5542cc44b97a4fae40b25ab8dc06a
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Loading.unity
+    guid: 84acb68e6b7dce24f94c2bbe00787cb4
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Logos.unity
+    guid: 94faa4d53977e754c86417cf8613d1ca
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Map.unity
+    guid: 274c5696ce80f724e8997b6d298d9980
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Preamble.unity
+    guid: 3bf73c1dc8959d345bbcb36a43db7d57
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Profile.unity
+    guid: 29f771b7b91ba6747bba919d73af989b
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Results.unity
+    guid: c7d0f805355aae547b8a1f2e80f7018c
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Settings.unity
+    guid: 5d5a2492c519fc749b950f300753276c
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Splash.unity
+    guid: e7d73048e4f53384c84844d3ec17c5ed
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Store.unity
+    guid: 6c906c81fbc70f7498d73c2d40192875
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_TopBar.unity
+    guid: e18ce5ef4e209cc49b7fe10a4d14c7b4
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_Workshop.unity
+    guid: 3025c46d488ea3241a4387954e16353a
+  - enabled: 1
+    path: /Volumes/JenkinsTM/jenkins/workspace/FNaFAR-Android-ManualBuild/Game-ProjectAlpine/Assets/Scenes/ScenesInBuild/UIScenes/GameProject_Alpine_CanvasController_WorkshopModify.unity
+    guid: 5a6d1daeca96d594c8a4818e705580ff

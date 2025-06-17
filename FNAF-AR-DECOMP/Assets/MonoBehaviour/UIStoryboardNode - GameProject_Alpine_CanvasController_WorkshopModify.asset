@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_WorkshopModify"
+  m_EditorClassIdentifier: 
+  identifier: "ed6363d0-53cb-4865-8900-5b6e82f27725"
+  graph: {fileID: 11400000, guid: 243bfb4e42be4aa19f48dac52559da83, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 7342e09444a147deaff81196dac7c2fb, type: 2}
+  hooks:
+  - identifier: "999f8799-761f-40e8-aae7-1dd986c90acf"
+    name: "BackButton"
+    rect01:
+      x: 0.02256477
+      y: 0.07915341
+      width: 0.1599387
+      height: 0.05046911
+  - identifier: "23e5cc63-69be-4af2-88b9-46ba15daf9ba"
+    name: "SlotRemove"
+    rect01:
+      x: 0.1532746
+      y: 0.7206578
+      width: 0
+      height: 0.1724798
+  - identifier: "e4cf386c-a270-4b87-99a8-d1f860f9a192"
+    name: "MoreInfo"
+    rect01:
+      x: 0.0714393
+      y: 0.7206578
+      width: 0.08183533
+      height: 0.04281998
+  - identifier: "82d74ca9-1816-448b-9cb3-b63337f0af70"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4466871
+      y: 0.9100105
+      width: 0.1066258
+      height: 0.05999298
+  - identifier: "4e60970d-03df-4254-bb88-58099ff624ae"
+    name: "SlotRemove"
+    rect01:
+      x: 0.1532746
+      y: 0.7206578
+      width: 0
+      height: 0.1724798
+  - identifier: "ba26a465-813e-467f-a3ea-8e5d1b1d9e05"
+    name: "MoreInfo"
+    rect01:
+      x: 0.07143925
+      y: 0.7206578
+      width: 0.08183533
+      height: 0.04281998
+  - identifier: "de9ea0d5-5b24-4b51-ae32-a05bad572296"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4466871
+      y: 0.9100105
+      width: 0.1066258
+      height: 0.05999298
+  - identifier: "aa4f6fc5-ef48-4151-bb18-a507c01bb29e"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4466871
+      y: 0.9100103
+      width: 0.1066258
+      height: 0.05999298
+  - identifier: "74b5ebe4-4327-41a2-a6ae-c8e0e08d38b8"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4466871
+      y: 0.9101979
+      width: 0.1066258
+      height: 0.05999298
+  - identifier: "579a7890-fe36-4ee9-abb1-f0e1840c8fbf"
+    name: "SlotMod"
+    rect01:
+      x: 0.05051214
+      y: 0.7150335
+      width: 0.2265799
+      height: 0.1274851
+  - identifier: "21747b6d-6d31-4449-9d00-acec9d5340cd"
+    name: "MoreInfo"
+    rect01:
+      x: 0.2256296
+      y: 0.7150335
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "0bc9ef36-d0c4-49c0-8106-3c1f84f903db"
+    name: "SlotMod"
+    rect01:
+      x: 0.399923
+      y: 0.7600657
+      width: 0
+      height: 0
+  - identifier: "1c705da3-00f8-4705-be87-37ac30c4f290"
+    name: "MoreInfo"
+    rect01:
+      x: 0.3484606
+      y: 0.7600657
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "0600e116-3a46-4750-85fd-9ed01cf5719f"
+    name: "SlotMod (1)"
+    rect01:
+      x: 0.5598618
+      y: 0.7600657
+      width: 0
+      height: 0
+  - identifier: "f0093391-5e77-4c76-853d-664fa7616fb3"
+    name: "MoreInfo"
+    rect01:
+      x: 0.5083994
+      y: 0.7600657
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "d98dbdad-7e9e-4a29-8900-96e030173493"
+    name: "SlotMod (2)"
+    rect01:
+      x: 0.7198005
+      y: 0.7600657
+      width: 0
+      height: 0
+  - identifier: "11c84435-6bcb-4eac-9788-83be7cfb0961"
+    name: "MoreInfo"
+    rect01:
+      x: 0.6683381
+      y: 0.7600657
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "db2943ba-babc-4050-bdc9-53384f4d6ade"
+    name: "SlotMod (3)"
+    rect01:
+      x: 0.8797393
+      y: 0.7600657
+      width: 0
+      height: 0
+  - identifier: "89129fe2-5fef-403f-a591-46de814d483c"
+    name: "MoreInfo"
+    rect01:
+      x: 0.8282769
+      y: 0.7600657
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "ffce8d06-f358-48dd-bde5-d31790ed9e03"
+    name: "SlotMod (4)"
+    rect01:
+      x: 0.399923
+      y: 0.8500552
+      width: 0
+      height: 0
+  - identifier: "99e27e2a-a609-4b3e-9ec1-8b4b258612fd"
+    name: "MoreInfo"
+    rect01:
+      x: 0.3484606
+      y: 0.8500552
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "189ad0e3-ed2a-4a43-b9fe-a1f2844db1f5"
+    name: "SlotMod (5)"
+    rect01:
+      x: 0.5598618
+      y: 0.8500552
+      width: 0
+      height: 0
+  - identifier: "5344263c-b938-448c-baf7-a0ed324f7c2b"
+    name: "MoreInfo"
+    rect01:
+      x: 0.5083994
+      y: 0.8500552
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "8f05d2de-14d9-44e0-9fb3-48585825d3b2"
+    name: "SlotMod (6)"
+    rect01:
+      x: 0.7198005
+      y: 0.8500552
+      width: 0
+      height: 0
+  - identifier: "eabaff72-287d-4fc6-aab2-62f83a347cba"
+    name: "MoreInfo"
+    rect01:
+      x: 0.6683381
+      y: 0.8500552
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "ae06e594-9a2c-4aee-8032-0508a862db33"
+    name: "SlotMod (7)"
+    rect01:
+      x: 0.8797393
+      y: 0.8500552
+      width: 0
+      height: 0
+  - identifier: "ebc7f45b-6ac7-4990-b63f-defeb1d7ed68"
+    name: "MoreInfo"
+    rect01:
+      x: 0.8282769
+      y: 0.8500552
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "387e3fc9-ec52-4c49-9d19-31dd50e458bd"
+    name: "BackButton"
+    rect01:
+      x: 0.3332818
+      y: 0.6700763
+      width: 0.06664113
+      height: 0.05249384
+  - identifier: "60991d6f-4ec3-4fc1-8541-78bc7acdd62e"
+    name: "MoreInfo"
+    rect01:
+      x: 0.8871326
+      y: 0.6738258
+      width: 0.07996938
+      height: 0.04499475
+  - identifier: "c32a771b-d3ad-4e98-9a0a-78ea304bce28"
+    name: "SlotMod"
+    rect01:
+      x: 0.3809171
+      y: 0.7525291
+      width: 0
+      height: 0
+  - identifier: "0e28ca97-5950-4fed-ba91-302abf32460d"
+    name: "MoreInfo"
+    rect01:
+      x: 0.3294546
+      y: 0.7525291
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "e06e0f7a-f4d6-494e-951b-820e04a640b1"
+    name: "SlotMod (1)"
+    rect01:
+      x: 0.5408558
+      y: 0.7525291
+      width: 0
+      height: 0
+  - identifier: "f4750eb6-6ca1-485b-b27e-0c970bc346a1"
+    name: "MoreInfo"
+    rect01:
+      x: 0.4893934
+      y: 0.7525291
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "c1f799db-0766-4e42-b2bb-568737bad350"
+    name: "SlotMod (2)"
+    rect01:
+      x: 0.7007946
+      y: 0.7525291
+      width: 0
+      height: 0
+  - identifier: "036cd152-fb96-4eab-8369-91f6e2789b73"
+    name: "MoreInfo"
+    rect01:
+      x: 0.6493322
+      y: 0.7525291
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "41e87357-ba02-4c12-8b5b-3575f0af40b4"
+    name: "SlotMod (3)"
+    rect01:
+      x: 0.8607333
+      y: 0.7525291
+      width: 0
+      height: 0
+  - identifier: "2398be4d-e9b6-4a67-83d6-aa75bcdf1daa"
+    name: "MoreInfo"
+    rect01:
+      x: 0.8092709
+      y: 0.7525291
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "dcc29886-33b1-4d66-99d4-804532bf1fb5"
+    name: "SlotMod (4)"
+    rect01:
+      x: 0.3809171
+      y: 0.8425186
+      width: 0
+      height: 0
+  - identifier: "b307e8a8-3813-4edd-82b6-d01d4d2cb2f0"
+    name: "MoreInfo"
+    rect01:
+      x: 0.3294546
+      y: 0.8425186
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "a3aef32c-160f-4a4f-adb3-19ab8beb0ce1"
+    name: "SlotMod (5)"
+    rect01:
+      x: 0.5408558
+      y: 0.8425186
+      width: 0
+      height: 0
+  - identifier: "fe86ff9a-5cc8-41ea-baaa-8b3b05102546"
+    name: "MoreInfo"
+    rect01:
+      x: 0.4893934
+      y: 0.8425186
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "2812a4a7-756a-4f04-a5c4-691fe67dfc34"
+    name: "SlotMod (6)"
+    rect01:
+      x: 0.7007946
+      y: 0.8425186
+      width: 0
+      height: 0
+  - identifier: "7715166d-f3db-4e30-851e-ea8e75b4dbb4"
+    name: "MoreInfo"
+    rect01:
+      x: 0.6493322
+      y: 0.8425186
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "c153992f-4cad-46d9-802e-3aae4aadb4d6"
+    name: "SlotMod (7)"
+    rect01:
+      x: 0.8607333
+      y: 0.8425186
+      width: 0
+      height: 0
+  - identifier: "19cd5413-1a6a-4994-8865-b1e7449b6c2a"
+    name: "MoreInfo"
+    rect01:
+      x: 0.8092709
+      y: 0.8425186
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "2d6f4df0-6f9c-401d-b554-e5f37c66905f"
+    name: "BackButton"
+    rect01:
+      x: 0.3142759
+      y: 0.6625396
+      width: 0.06664115
+      height: 0.05249384
+  - identifier: "c4ced81e-c8f0-4e72-99ae-fecff86ba690"
+    name: "MoreInfo"
+    rect01:
+      x: 0.8681267
+      y: 0.6662892
+      width: 0.07996938
+      height: 0.04499475
+  - identifier: "c40842d7-86be-46b8-a9b3-99030b628f8b"
+    name: "BackButton"
+    rect01:
+      x: 0.02256477
+      y: 0.07915341
+      width: 0.1599387
+      height: 0.05046911
+  - identifier: "aa10846e-9d5d-4113-a757-7c3a3b7a039a"
+    name: "ModCellRemove"
+    rect01:
+      x: 0.1001531
+      y: 0.1329601
+      width: 0.7996937
+      height: 0.05999298
+  - identifier: "940fcdc0-e15a-47f4-984f-d5eb5cae536f"
+    name: "Button"
+    rect01:
+      x: 0.5423838
+      y: 0.1454311
+      width: 0.06717426
+      height: 0.03505084
+  - identifier: "12cd0500-9bb5-417e-b1cc-cd09b26688f1"
+    name: "SlotMod (1)"
+    rect01:
+      x: 0.5266564
+      y: 0.1704558
+      width: 0.1332823
+      height: 0.07499121
+  - identifier: "2e93c9da-26fb-4f61-adab-7bf152c6db7c"
+    name: "MoreInfo"
+    rect01:
+      x: 0.6084763
+      y: 0.1704557
+      width: 0.05146242
+      height: 0.02895531
+  - identifier: "52e5fc6b-ebcf-4b80-bda7-1a3662d45e5d"
+    name: "SellButton"
+    rect01:
+      x: 0.3134048
+      y: 0.07296714
+      width: 0.173267
+      height: 0.05249384
+  - identifier: "4e422349-3efa-494a-9b58-77149951bfb1"
+    name: "DescPanel"
+    rect01:
+      x: 0.5066642
+      y: 0.1367097
+      width: -0.01332826
+      height: -0.00749919
+  - identifier: "3266e074-6c10-4de7-b124-010a1eb84916"
+    name: "CTA3"
+    rect01:
+      x: 0.8081489
+      y: 0.4265161
+      width: 0.07996938
+      height: 0.04499475
+  - identifier: "b6d78244-c118-4d8b-8815-f1c54afa4735"
+    name: "CTA2"
+    rect01:
+      x: 0.210711
+      y: 0.5845152
+      width: 0.2665645
+      height: 0.05624341
+  - identifier: "f411ea12-446f-47b0-b12a-3db3f17c1e6b"
+    name: "CTA1"
+    rect01:
+      x: 0.4992672
+      y: 0.5845152
+      width: 0.2665645
+      height: 0.05624341
+  - identifier: "1f3ad85e-c755-4bf2-90d3-7a72d9846955"
+    name: "SlotMod"
+    rect01:
+      x: 0.3816456
+      y: 0.397487
+      width: 0.2132516
+      height: 0.119986
+  - identifier: "29dbd3ed-9752-4f81-82f5-89b624aab9fe"
+    name: "MoreInfo"
+    rect01:
+      x: 0.5434348
+      y: 0.397487
+      width: 0.05146242
+      height: 0.02895531
+  sceneName: "GameProject_Alpine_CanvasController_WorkshopModify"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

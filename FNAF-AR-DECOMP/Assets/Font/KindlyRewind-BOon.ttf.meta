@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f87ce2bba82849d7bd0081993e805af5
+timeCreated: 1750163348
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "KindlyRewind-BOon"
+  fontNames:
+  - Kindly Rewind
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

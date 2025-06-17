@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_Inbox"
+  m_EditorClassIdentifier: 
+  identifier: "27f1e5b3-8535-4a37-b994-98da197ac114"
+  graph: {fileID: 11400000, guid: 243bfb4e42be4aa19f48dac52559da83, type: 2}
+  edges: []
+  hooks:
+  - identifier: "490a0dd2-8d0c-4037-b631-192883e74915"
+    name: "FolderPanel"
+    rect01:
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+  - identifier: "58132b47-3415-4999-9df9-a9137a64c84c"
+    name: "TrashButton"
+    rect01:
+      x: 0.8577333
+      y: 0.1844078
+      width: 0.1558667
+      height: 0.08403297
+  - identifier: "986f1cd6-7608-4795-9654-6433e2a2747e"
+    name: "TrashButton"
+    rect01:
+      x: 0.8577333
+      y: 0.1844078
+      width: 0.1558667
+      height: 0.08403297
+  - identifier: "a36a7eeb-0ed5-4a43-a45b-f4c92cd996b2"
+    name: "TrashButton"
+    rect01:
+      x: 0.8577333
+      y: 0.1844078
+      width: 0.1558667
+      height: 0.08403297
+  - identifier: "3647ee5e-3d2e-4897-a290-6cf3d8c9a326"
+    name: "TrashButton"
+    rect01:
+      x: 0.8577333
+      y: 0.1844078
+      width: 0.1558667
+      height: 0.08403297
+  - identifier: "87d66af1-0d12-4db0-a84c-87274f2f610e"
+    name: "TrashButton"
+    rect01:
+      x: 0.8577333
+      y: 0.1844078
+      width: 0.1558667
+      height: 0.08403297
+  - identifier: "8aefa005-0cf6-4e20-b30a-1ce955ae1b50"
+    name: "BackButton"
+    rect01:
+      x: 0.02257341
+      y: 0.07987253
+      width: 0.16
+      height: 0.05044981
+  sceneName: "GameProject_Alpine_CanvasController_Inbox"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

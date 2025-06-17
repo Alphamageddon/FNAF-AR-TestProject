@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_BottomBar"
+  m_EditorClassIdentifier: 
+  identifier: "959e7bb1-80fb-4021-9f72-52837415e282"
+  graph: {fileID: 11400000, guid: 243bfb4e42be4aa19f48dac52559da83, type: 2}
+  edges:
+  - {fileID: 11400000, guid: ae5461343668452da9e3dce767cc66ed, type: 2}
+  - {fileID: 11400000, guid: f0cad66405884f99842bf50ae9e18447, type: 2}
+  - {fileID: 11400000, guid: 8a99322c34064fa88a7641de7b6c2422, type: 2}
+  - {fileID: 11400000, guid: f64aff98138d423b9cae7cdbbe78fcbe, type: 2}
+  - {fileID: 11400000, guid: bcb2389cd94847d19046ec824c68718c, type: 2}
+  - {fileID: 11400000, guid: 3e09ea756cb84e92bac5d22b68b00616, type: 2}
+  - {fileID: 11400000, guid: 72789dd619574f829e4c91c025184723, type: 2}
+  hooks:
+  - identifier: "d6c42b9a-40aa-4f16-8ab2-a3ecbab53d91"
+    name: "Highlight"
+    rect01:
+      x: -0.08533333
+      y: 0.952024
+      width: 0.1706667
+      height: 0.09595203
+  sceneName: "GameProject_Alpine_CanvasController_BottomBar"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

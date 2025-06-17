@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "workshop_ui_atlas"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 79467af661b541ee9349ac907d2a68e5, type: 3}
+    - {fileID: 21300000, guid: e67513a589834b54911a8ab10f9d00b9, type: 3}
+    - {fileID: 21300000, guid: 09fd283aeb04475ea5c1543759113cb7, type: 3}
+    - {fileID: 21300000, guid: b70c935f11204e5f8043358cb0a6b21b, type: 3}
+    - {fileID: 21300000, guid: cfb16fe37a41463e936dd524933c15af, type: 3}
+    - {fileID: 21300000, guid: 95878933485e4869843eb7272708f2ef, type: 3}
+    - {fileID: 21300000, guid: 6d668b3da96649cda8b5f59bae30cbbb, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "workshop_ui_atlas"
+  m_IsVariant: 0

@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 7d59dbe5aa8e49cd8d8ed0118d594762
+timeCreated: 1750163315
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poi-icon-shops
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -109, y: -62}
+      - {x: -109, y: 62}
+      - {x: -105, y: -68}
+    - - {x: -107, y: 66}
+      - {x: -105, y: -68}
+      - {x: -109, y: 62}
+    - - {x: -95, y: 74}
+      - {x: -105, y: -68}
+      - {x: -107, y: 66}
+    - - {x: -10, y: -123}
+      - {x: -105, y: -68}
+      - {x: -95, y: 74}
+    - - {x: -13, y: 123}
+      - {x: -10, y: -123}
+      - {x: -95, y: 74}
+    - - {x: 12, y: 123}
+      - {x: -10, y: -123}
+      - {x: -13, y: 123}
+    - - {x: 10, y: -123}
+      - {x: -10, y: -123}
+      - {x: 12, y: 123}
+    - - {x: 24, y: -115}
+      - {x: 10, y: -123}
+      - {x: 12, y: 123}
+    - - {x: 105, y: 68}
+      - {x: 24, y: -115}
+      - {x: 12, y: 123}
+    - - {x: 90, y: -78}
+      - {x: 24, y: -115}
+      - {x: 105, y: 68}
+    - - {x: 108, y: -66}
+      - {x: 90, y: -78}
+      - {x: 105, y: 68}
+    - - {x: 109, y: 62}
+      - {x: 108, y: -66}
+      - {x: 105, y: 68}
+    - - {x: 109, y: -63}
+      - {x: 108, y: -66}
+      - {x: 109, y: 62}
+    physicsShape:    
+    - - {x: 108, y: -63}
+      - {x: 109, y: -61}
+      - {x: 109, y: 60}
+      - {x: 108, y: 62}
+      - {x: 105, y: 66.99999}
+      - {x: 85, y: 79}
+      - {x: 66, y: 90}
+      - {x: 14, y: 120}
+      - {x: 7, y: 123}
+      - {x: -8, y: 123}
+      - {x: -19, y: 117}
+      - {x: -26, y: 113}
+      - {x: -83, y: 79.99999}
+      - {x: -102, y: 70}
+      - {x: -108, y: 63}
+      - {x: -109, y: 61}
+      - {x: -109, y: -60}
+      - {x: -108, y: -62}
+      - {x: -105, y: -66.99999}
+      - {x: -97, y: -72}
+      - {x: -33, y: -109}
+      - {x: -19, y: -117}
+      - {x: -8, y: -123}
+      - {x: 7, y: -123}
+      - {x: 12, y: -121}
+      - {x: 78, y: -83}
+      - {x: 102, y: -70}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

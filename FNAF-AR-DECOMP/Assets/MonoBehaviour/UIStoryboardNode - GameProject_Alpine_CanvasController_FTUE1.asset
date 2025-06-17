@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_FTUE1"
+  m_EditorClassIdentifier: 
+  identifier: "596b953c-7a9a-41b7-8914-364e1a9e4385"
+  graph: {fileID: 11400000, guid: 35c23de559194eadb24b178578a62490, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 6f64dd806a7e458884e5ddcfa352e0a5, type: 2}
+  hooks:
+  - identifier: "78a2f53d-6b24-4f85-b96f-090d3b6771ad"
+    name: "CTA"
+    rect01:
+      x: NaN
+      y: NaN
+      width: NaN
+      height: NaN
+  - identifier: "163b5186-9046-44db-8b95-545fc8b4d511"
+    name: "CTA"
+    rect01:
+      x: 0.330294
+      y: 0.8515862
+      width: 0.3394119
+      height: 0.05336106
+  sceneName: "GameProject_Alpine_CanvasController_FTUE1"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

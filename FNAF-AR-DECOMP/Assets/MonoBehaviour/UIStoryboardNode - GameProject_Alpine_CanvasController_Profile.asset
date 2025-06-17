@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_Profile"
+  m_EditorClassIdentifier: 
+  identifier: "a7dc87b9-c0b5-4353-a7cf-2b353d70ec7d"
+  graph: {fileID: 11400000, guid: 1e63deb80bdd451b90b4204b903f671d, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 595ded3329ac4162ab00452dc832826a, type: 2}
+  hooks:
+  - identifier: "ffd64ab6-6010-4a0a-9f21-fc26ae1089e2"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4533333
+      y: 0.9137929
+      width: 0.09333333
+      height: 0.05247376
+  - identifier: "8dfb844e-3376-423e-968b-c2312bf1b5aa"
+    name: "ChangeButton"
+    rect01:
+      x: 0.7653334
+      y: 0.4150824
+      width: 0.08
+      height: 0.04497751
+  - identifier: "5e703ac0-7a10-47db-8bbb-c6d9892e5f13"
+    name: "CTA3"
+    rect01:
+      x: 0.2066667
+      y: 0.4937931
+      width: 0.2833333
+      height: 0.05622189
+  - identifier: "78a2f53d-6b24-4f85-b96f-090d3b6771ad"
+    name: "CTA1"
+    rect01:
+      x: 0.51
+      y: 0.4937931
+      width: 0.2833333
+      height: 0.05622189
+  - identifier: "92d5c1c8-ccb5-4a1d-9e22-2e6f3af99646"
+    name: "AddCodeButton"
+    rect01:
+      x: 0.2
+      y: 0.657054
+      width: 0.6
+      height: 0.05997001
+  - identifier: "9effa1c1-025e-4794-a1ed-f94eb06e7806"
+    name: "CTA3"
+    rect01:
+      x: 0.1066667
+      y: 0.5939243
+      width: 0.3866667
+      height: 0.05622189
+  - identifier: "e6730cbf-cf0d-4e1e-a690-644c52b4e473"
+    name: "CTA1"
+    rect01:
+      x: 0.5066667
+      y: 0.5939243
+      width: 0.3866667
+      height: 0.05622189
+  - identifier: "484e31c0-bb62-4369-a2a6-5ef3cbb65e81"
+    name: "CTA3"
+    rect01:
+      x: 0.2066667
+      y: 0.3300206
+      width: 0.2833333
+      height: 0.05377801
+  - identifier: "cbbcc198-1afd-4021-a874-fa65616aca40"
+    name: "CTA1"
+    rect01:
+      x: 0.51
+      y: 0.3300206
+      width: 0.2833333
+      height: 0.05377801
+  sceneName: "GameProject_Alpine_CanvasController_Profile"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

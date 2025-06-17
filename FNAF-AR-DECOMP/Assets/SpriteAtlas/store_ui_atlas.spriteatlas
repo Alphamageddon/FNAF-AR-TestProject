@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "store_ui_atlas"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 1fa94f931cbf450f9958fee26157a126, type: 3}
+    - {fileID: 21300000, guid: d7f0a15861b3465e82bed491ef7f0b60, type: 3}
+    - {fileID: 21300000, guid: 0372c7804160405aa3f16dba566d6004, type: 3}
+    - {fileID: 21300000, guid: 08bb298dc90e4b15b96451bf9d643454, type: 3}
+    - {fileID: 21300000, guid: ecf2b67eddf840c6abc972bf98dad791, type: 3}
+    - {fileID: 21300000, guid: db378447288d4b589fb48b8180519f24, type: 3}
+    - {fileID: 21300000, guid: 959fe3a65239499794ebd1ab9b94ca3a, type: 3}
+    - {fileID: 21300000, guid: de728e258076481d90fad033b3a3c11c, type: 3}
+    - {fileID: 21300000, guid: 1cf5ebb69c4d44099faa80ee4dfdf4ac, type: 3}
+    - {fileID: 21300000, guid: f3612e5a7dce4b73ba942b0cfaca290f, type: 3}
+    - {fileID: 21300000, guid: d45ee0dbf950427894b82fb5a89c220b, type: 3}
+    - {fileID: 21300000, guid: f44c10920f1e4e3796e21ea5833a2de6, type: 3}
+    - {fileID: 21300000, guid: a627a71dbfd24e75b35a891791a480fb, type: 3}
+    - {fileID: 21300000, guid: 46d2a03036d74026b9c1d38501dd0779, type: 3}
+    - {fileID: 21300000, guid: 487e62283d3d448389ec5ee7ad445b7a, type: 3}
+    - {fileID: 21300000, guid: 41d6989886c44dd5871518c0393add96, type: 3}
+    - {fileID: 21300000, guid: 65f8dfd858424fe38ba31974828060a0, type: 3}
+    - {fileID: 21300000, guid: 22f53a5940bf4ab19eeaa43f36af49e0, type: 3}
+    - {fileID: 21300000, guid: 9ea644dae800475b8c5adc8af9c8c25f, type: 3}
+    - {fileID: 21300000, guid: 8eeeffee7589450fb5ec1934d2466bd0, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "store_ui_atlas"
+  m_IsVariant: 0

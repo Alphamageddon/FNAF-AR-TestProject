@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ae9901a2844c4df7a81b2b4d74b1b7c0
+timeCreated: 1750163348
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "DINPro-Light tr"
+  fontNames:
+  - DINPro
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

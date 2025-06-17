@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_Devices"
+  m_EditorClassIdentifier: 
+  identifier: "65e28dad-1238-4f66-87fa-803eea114f6e"
+  graph: {fileID: 11400000, guid: 1e63deb80bdd451b90b4204b903f671d, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 624266111b994db2a434fa2fc5ebc70a, type: 2}
+  hooks:
+  - identifier: "abd83f63-c227-4090-adb6-788a130bbddb"
+    name: "Button"
+    rect01:
+      x: 0.3000588
+      y: 0.4003005
+      width: 0.3998824
+      height: 0.05623842
+  - identifier: "4eb12eed-0053-4e64-8d75-c51df1371943"
+    name: "FABicon_close"
+    rect01:
+      x: 0.4533471
+      y: 0.9137675
+      width: 0.09330589
+      height: 0.0524892
+  - identifier: "5e703ac0-7a10-47db-8bbb-c6d9892e5f13"
+    name: "CTA3"
+    rect01:
+      x: 0.1067824
+      y: 0.5341555
+      width: 0.3865529
+      height: 0.05623842
+  - identifier: "b1497c55-4a58-4350-b2a1-7178dd5c4c10"
+    name: "CTA2"
+    rect01:
+      x: 0.3733706
+      y: 0.5341555
+      width: 0.2532588
+      height: 0.05623842
+  - identifier: "78a2f53d-6b24-4f85-b96f-090d3b6771ad"
+    name: "CTA1"
+    rect01:
+      x: 0.5066647
+      y: 0.5341555
+      width: 0.3865529
+      height: 0.05623842
+  sceneName: "GameProject_Alpine_CanvasController_Devices"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

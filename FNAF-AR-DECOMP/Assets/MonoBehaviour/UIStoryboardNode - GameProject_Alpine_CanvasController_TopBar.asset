@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_TopBar"
+  m_EditorClassIdentifier: 
+  identifier: "b034afd4-5bc4-43cb-b086-c0d34f6ff3cb"
+  graph: {fileID: 11400000, guid: 1e63deb80bdd451b90b4204b903f671d, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 770758103c3545ef835f1b394d18d4d6, type: 2}
+  - {fileID: 11400000, guid: f968088eff224abd8cb8af39a869688b, type: 2}
+  - {fileID: 11400000, guid: 7e5a71f27583496fb06936d655580ed6, type: 2}
+  - {fileID: 11400000, guid: be92bf1d6379427a8001ff584ec6db13, type: 2}
+  - {fileID: 11400000, guid: 833d0965c2ac4840ae75f3f37baffc30, type: 2}
+  hooks:
+  - identifier: "bbd89039-587d-43aa-8def-13501fc6fee9"
+    name: "ProfileButton"
+    rect01:
+      x: 0.01454171
+      y: 0.0001250282
+      width: 0.1236
+      height: 0.06949022
+  - identifier: "dbed4fc4-5227-4594-99be-40d7888ce65c"
+    name: "Settings"
+    rect01:
+      x: 0.9067917
+      y: 0.0001250245
+      width: 0.08
+      height: 0.04497751
+  - identifier: "420a6537-441f-4589-b32a-ec829aacd292"
+    name: "DevicesFAB"
+    rect01:
+      x: 0.03720842
+      y: 0.7704898
+      width: 0.2133333
+      height: 0.1191904
+  - identifier: "e0d3ff2c-b964-4a45-9133-a5378c453675"
+    name: "Icon"
+    rect01:
+      x: 0.7833334
+      y: 0.08658922
+      width: 0.1666667
+      height: 0.07848572
+  - identifier: "4a2f9589-f3e9-40f5-b1fc-4a30a8085dc3"
+    name: "ReadyPanel"
+    rect01:
+      x: 0.7944133
+      y: 0.08078712
+      width: 0.1445067
+      height: 0.08124429
+  sceneName: "GameProject_Alpine_CanvasController_TopBar"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

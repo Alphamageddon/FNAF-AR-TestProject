@@ -1,0 +1,19 @@
+using UnityEngine;
+
+namespace GameUI
+{
+    [System.Runtime.InteropServices.ComVisibleAttribute]
+    public enum UserNameSetError
+    {
+        // Fields
+        NAME_TOO_SHORT = 0
+        ,NAME_TOO_LONG = 1
+        ,NAME_NOT_CAPITALIZED = 2
+        ,NAME_INVALID_CHARACTER = 3
+        ,NAME_OBSCENE = 4
+        ,NAME_NOT_UNIQUE = 5
+        
+    
+    }
+
+}

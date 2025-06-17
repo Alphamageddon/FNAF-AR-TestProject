@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 624038582, guid: cbf2240218505e8b5c6814f992f6eb47, type: 3}
+  m_Name: "UIStoryboardNode - GameProject_Alpine_CanvasController_FTUE2_2"
+  m_EditorClassIdentifier: 
+  identifier: "e7728f5c-747e-4338-b954-7633e902f450"
+  graph: {fileID: 11400000, guid: bb39758e856444c18e53bb25e195f8a0, type: 2}
+  edges:
+  - {fileID: 11400000, guid: 263ee082723b498494103622137b7e0e, type: 2}
+  hooks:
+  - identifier: "62ac59f1-e100-4075-8e6e-fcd5c8dbe1e4"
+    name: "SadButton"
+    rect01:
+      x: 0.1822841
+      y: 0.8198534
+      width: 0.2754581
+      height: 0.159016
+  - identifier: "8494cafd-7bdc-4d03-827f-2b8bb833e216"
+    name: "HappyButton"
+    rect01:
+      x: 0.5422578
+      y: 0.8198534
+      width: 0.2754581
+      height: 0.159016
+  - identifier: "163b5186-9046-44db-8b95-545fc8b4d511"
+    name: "CTA"
+    rect01:
+      x: 0.330294
+      y: 0.8515862
+      width: 0.3394119
+      height: 0.05336106
+  sceneName: "GameProject_Alpine_CanvasController_FTUE2_2"
+  sceneAssetObject: {fileID: 0}
+  canvasAspectRatio: 1.778667
+  parent: {fileID: 0}

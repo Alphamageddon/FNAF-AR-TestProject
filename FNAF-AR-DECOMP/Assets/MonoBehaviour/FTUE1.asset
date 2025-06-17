@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: 88d4e71cd9ec6608724e100fbca9ea92, type: 3}
+  m_Name: "FTUE1"
+  m_EditorClassIdentifier: 
+  settings:
+  - {fileID: 11400000, guid: 0cf5d5843ad94fcab2e100f9b7ecc916, type: 2}
+  - {fileID: 11400000, guid: ac723f21fc1b4e4bae568e7965c37b81, type: 2}
+  - {fileID: 11400000, guid: b16048b43c5d4dcf8ea3f4d5ec06ebc2, type: 2}
+  - {fileID: 11400000, guid: bb7a18322d9e45a9991819d68c21d580, type: 2}
+  - {fileID: 11400000, guid: 6b3472df307a43d9a693bff714e9819b, type: 2}
+  - {fileID: 11400000, guid: abeb0af0a2b447319cab8a7da0ea8ee7, type: 2}
