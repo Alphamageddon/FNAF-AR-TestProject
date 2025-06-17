@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Carnie_Body
+  m_Shader: {fileID: 4800000, guid: f1ccc6237349d82448b57b70c767eb38, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_Albedo:
+        m_Texture: {fileID: 2800000, guid: bd73f99c4d4cf0e458d18421cd031938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Base_Emission:
+        m_Texture: {fileID: 2800000, guid: c1c6983e653ed004c964e48fba979a33, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Base_MRAC:
+        m_Texture: {fileID: 2800000, guid: 86ed01643e6f8fc4aac1c865aee0d981, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Base_Normal:
+        m_Texture: {fileID: 2800000, guid: 8b07b75fa4c7d324b8c85e73faec5cfe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Grunge01:
+        m_Texture: {fileID: 2800000, guid: 946966e1531ceb4419646631abbc8e18, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GrungeTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MRAC:
+        m_Texture: {fileID: 2800000, guid: 33b2201ad7af9ea429a4ac406a767e81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 626b64a2726cfad4d98269b18f71edf9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintNormal:
+        m_Texture: {fileID: 2800000, guid: 0d4e0299a301d744680bbe60013e786d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintTex:
+        m_Texture: {fileID: 2800000, guid: 626b64a2726cfad4d98269b18f71edf9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintsAlbedoTex:
+        m_Texture: {fileID: 2800000, guid: 626b64a2726cfad4d98269b18f71edf9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintsEmissiveTex:
+        m_Texture: {fileID: 2800000, guid: c1c6983e653ed004c964e48fba979a33, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintsNormalTex:
+        m_Texture: {fileID: 2800000, guid: 0d4e0299a301d744680bbe60013e786d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertDisplacementMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexNoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BasePaintsRoughness: 2.5
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DirtAmount: 0.5
+    - _DstBlend: 0
+    - _EmissionPower: 1
+    - _EmissiveStrength: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GlowPower: 0
+    - _MetalOilRoughness: 0.5
+    - _MetalOilScratchesTiling: 4
+    - _MetalOilSmearBalance: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _PaintWear: 0.3
+    - _PaintsAOMinMax: 2.5
+    - _PaintsDirtAOBalance: 0
+    - _PaintsDirtAOContrast: 0
+    - _PaintsDirtBalance: -0.429
+    - _PaintsDirtContrast: 0.2
+    - _PaintsDirtOffset: 0
+    - _PaintsDirtRoughness: 0.922
+    - _PaintsDirtScratchesBalance: 0.013
+    - _PaintsDirtScratchesContrast: 0.6
+    - _PaintsDirtTiling: 4
+    - _PaintsRoughness: 8.99
+    - _PaintsScratchesOffset: 0
+    - _PaintsScratchesTiling: 6
+    - _Parallax: 0.02
+    - _ScratchAmount: 0.3
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _VertDisplace: 0
+    - _VertScale: 2
+    - _VertexAmount: 0.01
+    - _VertexSpeed: 2
+    - _WearAmount: 0.5
+    - _WearCurvatureBalance: -0.801
+    - _WearCurvatureContrast: 0
+    - _WearCurveGrimeBalance: 1
+    - _WearCurveGrimeContrast: 1
+    - _WearCurveGrimeOffset: 0
+    - _WearCurveGrimeRotator: 0
+    - _WearCurveGrimeTiling: 6
+    - _WearGrungeBalance: -1
+    - _WearGrungeContrast: 0.9
+    - _WearGrungeOffset: 0
+    - _WearGrungeRotator: 0
+    - _WearGrungeTiling: 6
+    - _WearScratchesBalance: -1
+    - _WearScratchesContrast: 0.75
+    - _WearScratchesOffset: 0
+    - _WearScratchesRotator: 0
+    - _WearScratchesTiling: 8
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DirtColor: {r: 0.39999998, g: 0.34999996, b: 0.29999998, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlowColor: {r: 146.84024, g: 100.429596, b: 0, a: 1}
+    - _PaintsDirtColor: {r: 0.5921568, g: 0.5921568, b: 0.5921568, a: 1}
+    - _PlaneNormal: {r: 0, g: 0, b: -1, a: 0}
+    - _PlanePosition: {r: 0, g: 0, b: -11, a: 0}
+  m_BuildTextureStacks: []

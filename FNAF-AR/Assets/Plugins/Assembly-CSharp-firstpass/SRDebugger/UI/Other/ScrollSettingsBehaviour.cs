@@ -1,0 +1,23 @@
+using SRDebugger.Internal;
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace SRDebugger.UI.Other
+{
+	[RequireComponent(typeof(ScrollRect))]
+	public class ScrollSettingsBehaviour : MonoBehaviour
+	{
+		public const float ScrollSensitivity = 40f;
+
+		private void Awake()
+		{
+			ScrollRect component = GetComponent<ScrollRect>();
+			component.scrollSensitivity = 40f;
+			if (!SRDebuggerUtil.IsMobilePlatform)
+			{
+				component.movementType = ScrollRect.MovementType.Clamped;
+				component.inertia = false;
+			}
+		}
+	}
+}

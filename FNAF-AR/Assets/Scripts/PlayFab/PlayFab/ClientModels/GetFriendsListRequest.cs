@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using PlayFab.SharedModels;
+
+namespace PlayFab.ClientModels
+{
+	[Serializable]
+	public class GetFriendsListRequest : PlayFabRequestCommon
+	{
+		public Dictionary<string, string> CustomTags;
+
+		public bool? IncludeFacebookFriends;
+
+		public bool? IncludeSteamFriends;
+
+		public PlayerProfileViewConstraints ProfileConstraints;
+
+		public string XboxToken;
+	}
+}

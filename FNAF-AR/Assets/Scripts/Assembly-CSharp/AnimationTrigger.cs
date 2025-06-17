@@ -1,0 +1,26 @@
+public enum AnimationTrigger
+{
+	Invalid = 0,
+	Charge = 1,
+	ChargeEnd = 2,
+	Haywire = 3,
+	HaywireEnd = 4,
+	Idle = 5,
+	Jumpscare = 6,
+	Lurch = 7,
+	Shutdown = 8,
+	SwitchMode = 9,
+	Damaged = 10,
+	Slashed = 11,
+	Reveal = 12,
+	Stunned = 13,
+	StartPose = 14,
+	InChair = 15,
+	OnFloor = 16,
+	BehindDoorLeft = 17,
+	BehindDoorRight = 18,
+	BehindRubble = 19,
+	FinalPose = 20,
+	SlashedRaise = 21,
+	Reactivate = 22
+}

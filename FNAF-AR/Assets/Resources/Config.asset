@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f525f2aff8b8b2ab44e06d9cdaf966, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier:
+  geometryOverrideLayer: 1
+  geometryLayerID: 1
+  geometryTag: Untagged
+  geometryRenderQueue: 3000
+  renderPipeline: 0
+  forceSinglePass: 0
+  renderingMode: 0
+  beamShader1Pass: {fileID: 4800000, guid: 88c57ed28ac665c4a934b50f0dee21af, type: 3}
+  beamShader2Pass: {fileID: 4800000, guid: 3d0aad5d10da5f247bec202390ea312f, type: 3}
+  sharedMeshSides: 24
+  sharedMeshSegments: 5
+  globalNoiseScale: 0.5
+  globalNoiseVelocity: {x: 0.07, y: 0.18, z: 0.05}
+  fadeOutCameraTag: MainCamera
+  noise3DData: {fileID: 4900000, guid: 9ba26a8d95580dd4b9cae1d1cf59efa2, type: 3}
+  noise3DSize: 64
+  dustParticlesPrefab: {fileID: 198296686715747602, guid: fbb55c8ac0b215141961e0b6d7722569, type: 2}
+  pluginVersion: 1700

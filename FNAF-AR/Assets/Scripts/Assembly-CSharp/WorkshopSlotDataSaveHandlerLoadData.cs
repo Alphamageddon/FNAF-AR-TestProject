@@ -1,0 +1,6 @@
+public struct WorkshopSlotDataSaveHandlerLoadData
+{
+	public WorkshopSlotDataModel workshopSlotDataModel;
+
+	public SetEndoskeletonConfigRequester setEndoskeletonConfigRequester;
+}

@@ -1,0 +1,28 @@
+public enum AttackPhase
+{
+	Null = 0,
+	ReadyForCleanup = 1,
+	WaitForEnvironmentPreload = 2,
+	WaitForCamera = 3,
+	InitialPause = 4,
+	Circle = 5,
+	Pause = 6,
+	Glimpse = 7,
+	Charge = 8,
+	Damaged = 9,
+	Haywire = 10,
+	Jumpscare = 11,
+	JumpscareOffscreen = 12,
+	Shutdown = 13,
+	Results = 14,
+	PhantomWalk = 15,
+	PhantomOverload = 16,
+	AttackPlayer = 17,
+	Slashed = 18,
+	Slash = 19,
+	ScavengingDormant = 20,
+	ScavengingSearching = 21,
+	ScavengingSpotted = 22,
+	ScavengingEscape = 23,
+	ScavengingStunned = 24
+}

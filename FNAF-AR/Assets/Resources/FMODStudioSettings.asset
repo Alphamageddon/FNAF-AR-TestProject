@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b347e2f3d0e8b71606638469db99dca8, type: 3}
+  m_Name: FMODStudioSettings
+  m_EditorClassIdentifier:
+  HasSourceProject: 1
+  HasPlatforms: 1
+  sourceProjectPath: ForsakenMRFMOD/ForsakenMRFMOD.fspro
+  sourceBankPath: ForsakenMRFMOD/Build
+  SourceBankPathUnformatted:
+  BankRefreshCooldown: 5
+  ShowBankRefreshWindow: 1
+  AutomaticEventLoading: 0
+  BankLoadType: 2
+  AutomaticSampleLoading: 0
+  EncryptionKey:
+  ImportType: 1
+  TargetAssetPath: FMODBanks
+  TargetBankFolder:
+  LoggingLevel: 2
+  SpeakerModeSettings: []
+  SampleRateSettings: []
+  LiveUpdateSettings: []
+  OverlaySettings: []
+  LoggingSettings: []
+  BankDirectorySettings: []
+  VirtualChannelSettings: []
+  RealChannelSettings: []
+  Plugins: []
+  MasterBanks:
+  - Master
+  Banks:
+  - Freddy
+  - Shared
+  BanksToLoad: []
+  LiveUpdatePort: 9264
+  EnableMemoryTracking: 0
+  AndroidUseOBB: 0
+  MeterChannelOrdering: 0
+  StopEventsOutsideMaxDistance: 0
+  BoltUnitOptionsBuildPending: 0
+  EnableErrorCallback: 0
+  SharedLibraryUpdateStage: 0
+  SharedLibraryTimeSinceStart: 0
+  HideSetupWizard: 1
+  Platforms:
+  - {fileID: 11400000, guid: ffd611643561ac04c881929749a66c7d, type: 2}
+  - {fileID: 11400000, guid: 83b1ca6949473f34d83330f1a82aa357, type: 2}
+  - {fileID: 11400000, guid: 3e36f07f57b712649a54bcb241b5b02e, type: 2}
+  - {fileID: 11400000, guid: 6e40cce0029c0f64c89c209eda8b7934, type: 2}
+  - {fileID: 11400000, guid: c323fda0652fe5746a4c53561a86084b, type: 2}
+  - {fileID: 11400000, guid: 6475c0feefbc2744cbb88838735a3de7, type: 2}
+  - {fileID: 11400000, guid: 3a9a8c81c5b08a2438b3aa8454f9b121, type: 2}
+  - {fileID: 11400000, guid: 69aef4a2ea14f6a41b4cfb2621b63a43, type: 2}
+  - {fileID: 11400000, guid: 948a41e8d0b34f44a843317e39afda2e, type: 2}
+  - {fileID: 11400000, guid: a419da04bba524749877efbbc796d154, type: 2}
+  - {fileID: 11400000, guid: 22b1ca8f056764f45a606f1ae2aae8bb, type: 2}

@@ -1,0 +1,7 @@
+{
+  "name": "UnityEngine.XR.LegacyInputHelpers",
+  "references": [
+    "UnityEngine.SpatialTracking"
+  ],
+  "allowUnsafeCode": true
+}
